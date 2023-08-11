@@ -1,7 +1,3 @@
-# Language-Model-Text-Generator
-
-Sure, here's a sample README file for your code:
-
 # Text Generation using LSTM-based Language Model
 
 This project demonstrates text generation using an LSTM-based language model. The goal is to explore language processing and creativity in generating text using TensorFlow and Python.
