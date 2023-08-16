@@ -21,7 +21,7 @@ def clean_text(text):
     return text
 
 # Step 1: Load and preprocess the data
-data = pd.read_csv('plot_sum.txt', delimiter='\t', header=None)
+data = pd.read_csv('test.txt', delimiter='\t', header=None)
 plot_summaries = data[1].tolist()  # Get the plot summaries from the second column
 
 print("Number of plot summaries before cleaning:", len(plot_summaries))
